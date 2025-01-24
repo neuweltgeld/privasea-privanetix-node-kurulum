@@ -49,7 +49,7 @@ docker pull privasea/acceleration-node-beta:latest
 Keystore için klasör oluşturuyoruz
 
 ```
-mkdir -p ~/privasea/config && cd ~/privasea
+mkdir -p /privasea/config && cd /privasea
 ```
 
 Bu kod bir keystore dosyası oluşturacak ve şifre soracak, şifreyi unutmayın Ayrıca bir node adresi verecek, bu node adresi kullanarak cüzdana ödül alacağız
