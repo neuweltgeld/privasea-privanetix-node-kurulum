@@ -100,7 +100,12 @@ docker ps yazıp çalışan dockerları listeliyoruz, Container Id altındaki Id
 
 Node sayfasına girip detailse tıklıyoruz
 Elimizdeki tokenleri stake ediyoruz.
-Ben stake edemedim, bir hata var, siz deneyin yine de.
+
+```stake failed```hatası alırsanız cüzdandan gaz limitine bi kaç sıfır ekleyip tekrar deneyin
+
+
+![image](https://github.com/user-attachments/assets/26b538e0-56ef-44a7-9f40-a5013be6c6aa)
+
 Eksik görürseniz pr atabilirsiniz ya da telegram @avalanchezone pm atabilirsiniz.
 
 
